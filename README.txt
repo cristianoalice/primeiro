@@ -1,1 +1,1 @@
-meu primeiro repositório atualizado
+Meu primeiro repositório atualizado para roteiro 03.
